@@ -3,6 +3,9 @@
 # To test, generate a kdpbx4 file in the same directory named passwords_kdbx4.kdbx
 # and set the password to testpassword123
 
+# svc_root: <py_root>/other/keepass/check_kp_password/
+# homepage: https://github.com/JavaScriptDude/check_kp_password
+
 # Install dependencies: 
 #   % python3 -m pip install pykeepass
 # running: 
